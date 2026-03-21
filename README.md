@@ -43,7 +43,7 @@
 
 ## 📖 Overview
 
-AgentKit is [Coinbase Developer Platform's](https://docs.cdp.coinbase.com) toolkit for giving AI agents a crypto wallet and onchain interactions. It is designed to be framework-agnostic, so you can use it with any AI framework, and wallet-agnostic, so you can use it with any wallet. With AgentKit, you can enable fee-free stablecoin payments and monetize your AI agents seamlessly. AgentKit is actively being built out, and [welcomes community contributions!](#-contributing) We're also going to Base!
+AgentKit is [Coinbase Developer Platform's](https://docs.cdp.coinbase.com) toolkit for giving AI agents a crypto wallet and onchain interactions. It is designed to be framework-agnostic, so you can use it with any AI framework, and wallet-agnostic, so you can use it with any wallet. With AgentKit, you can enable fee-free stablecoin payments and monetize your AI agents seamlessly. AgentKit is actively being built out, and [welcomes community contributions!](#-contributing)
 
 <div align="center">
   <a href="https://youtu.be/hw-PuogqLR0">
