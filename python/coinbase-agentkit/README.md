@@ -1049,6 +1049,8 @@ from coinbase_agentkit import CdpSolanaWalletProvider, CdpSolanaWalletProviderCo
 wallet_provider = CdpSolanaWalletProvider(CdpSolanaWalletProviderConfig())
 ```
 
+#### Using Bankr AI
+
 #### Using an existing wallet
 
 If you have an existing CDP Solana wallet, you can specify its address:
