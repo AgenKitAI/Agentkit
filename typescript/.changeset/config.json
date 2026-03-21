@@ -1,6 +1,6 @@
 {
   "$schema": "https://unpkg.com/@changesets/config@3.1.1/schema.json",
-  "changelog": ["@changesets/changelog-github", { "repo": "coinbase/agentkit" }],
+  "changelog": ["@changesets/changelog-github", { "repo": "AgenKitAI/Agentkit" }],
   "commit": false,
   "fixed": [],
   "linked": [],

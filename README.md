@@ -12,6 +12,7 @@
     Every agent deserves a wallet.
   </p>
 
+[![Twitter](https://img.shields.io/badge/Twitter-%40AgentKitAI-1DA1F2?style=flat-square&logo=x&logoColor=white&labelColor=4A4A4A)](https://x.com/AgentKitAI)
 [![](https://github.com/coinbase/agentkit/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/coinbase/agentkit/actions/workflows/github-code-scanning/codeql)
 [![pypi downloads](https://img.shields.io/pypi/dm/coinbase-agentkit?label=pypi:coinbase-agentkit&style=flat-square)](https://pypistats.org/packages/coinbase-agentkit)
 [![npm downloads](https://img.shields.io/npm/dm/@coinbase/agentkit?label=npm:@coinbase/agentkit&style=flat-square)](https://www.npmjs.com/package/@coinbase/agentkit)
@@ -19,6 +20,10 @@
 [![Open Issues](https://img.shields.io/github/issues-raw/coinbase/agentkit?style=flat-square)](https://github.com/coinbase/agentkit/issues)
 
 </div>
+
+<p align="center">
+  <code>Contract Address: Coming Soon</code>
+</p>
 
 ## Table of Contents
 
@@ -38,7 +43,7 @@
 
 ## 📖 Overview
 
-AgentKit is [Coinbase Developer Platform's](https://docs.cdp.coinbase.com) toolkit for giving AI agents a crypto wallet and onchain interactions. It is designed to be framework-agnostic, so you can use it with any AI framework, and wallet-agnostic, so you can use it with any wallet. With AgentKit, you can enable fee-free stablecoin payments and monetize your AI agents seamlessly. AgentKit is actively being built out, and [welcomes community contributions!](#-contributing)
+AgentKit is [Coinbase Developer Platform's](https://docs.cdp.coinbase.com) toolkit for giving AI agents a crypto wallet and onchain interactions. It is designed to be framework-agnostic, so you can use it with any AI framework, and wallet-agnostic, so you can use it with any wallet. With AgentKit, you can enable fee-free stablecoin payments and monetize your AI agents seamlessly. AgentKit is actively being built out, and [welcomes community contributions!](#-contributing) We're also going to Base!
 
 <div align="center">
   <a href="https://youtu.be/hw-PuogqLR0">
@@ -118,7 +123,7 @@ poetry run python chatbot.py
 2. Select "1. chat mode" and start telling your Agent to do things onchain!
 
 ```bash
-Prompt: Fund my wallet with some testnet ETH.
+Prompt: Fund my wallet with some testnet ETH in base.
 -------------------
 Wallet: ccaf1dbf-3a90-4e52-ad34-89a07aad9e8b on network: base-sepolia with default address: 0xD9b990c7b0079c1c3733D2918Ee50b68f29FCFD5
 -------------------
