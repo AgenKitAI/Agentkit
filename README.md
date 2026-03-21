@@ -22,7 +22,7 @@
 </div>
 
 <p align="center">
-  <code>Contract Address: Coming Soon</code>
+  <code>Contract Address: 0x5dcddfbf0795b8221c7ce857e8d919ad29f1dba3</code>
 </p>
 
 ## Table of Contents
