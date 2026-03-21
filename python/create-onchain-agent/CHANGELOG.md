@@ -2,6 +2,12 @@
 
 <!-- towncrier release notes start -->
 
+## [1.0.0] - 2026-03-22
+
+### Added
+
+- Added Base contract
+
 ## [0.9.0] - 2025-09-05
 
 ### Added
